@@ -6,5 +6,7 @@ int main() {
 	int x = 1;
 	double b = 2.2;
 
+	int c = 2;
+
 	return 0;
 }

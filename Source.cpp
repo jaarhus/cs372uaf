@@ -4,11 +4,8 @@ int main() {
 	std::cout << "hello world";
 
 	int x = 1;
-	double b = 2.2;
 
-	int c = 2;
-
-	int q = 0;
+	int y = 0;
 
 	return 0;
 }

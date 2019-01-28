@@ -8,7 +8,7 @@ int main() {
 
 	int c = 2;
 
-	int d = 0;
+	int q = 0;
 
 	return 0;
 }

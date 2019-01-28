@@ -3,9 +3,9 @@
 int main() {
 	std::cout << "hello world";
 
-	int x = 0;
+	int x = 1;
 
-	int y = 1;
+	int y = 2;
 
 	int z = 3;
 
